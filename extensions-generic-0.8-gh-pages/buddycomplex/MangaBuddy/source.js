@@ -1423,7 +1423,7 @@ Please go to Settings > Sources > ${this.baseUrl} and press Cloudflare Bypass`);
   var DOMAIN = "https://mangabuddy1.co.uk/home";
   var MangaBuddyInfo = {
     version: getExportVersion("0.0.2"),
-    name: "MangaBuddy",
+    name: "MangaBuddy2",
     description: `Extension that pulls manga from ${DOMAIN}`,
     author: "Netsky",
     authorWebsite: "http://github.com/TheNetsky",
